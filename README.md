@@ -1,1 +1,1 @@
-# Autonomous-Navigation-of-Unitree-GO1
+# Autonomous-Navigation-on-Unitree-GO1
